@@ -368,27 +368,6 @@ The dashboard has been fully developed with interactive filtering, KPI reporting
 
 ---
 
-## 👤 Author
-
-**Wahab Sodiq**
-
-**Data Analyst | Team Leader | Business Intelligence & Data Visualization**
-
----
-
-## 🔗 Portfolio Links
-
-### 📁 Google Drive
-
-[View Project Portfolio](https://drive.google.com/drive/folders/1oyuXhV6qSAY-Mi1UlfhNJC0-lzMmnQk8?usp=drive_link)
-
-### 💼 LinkedIn
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/sodiqwahab/)
-
-
----
-
 ## ⭐ About This Project
 
 This project demonstrates how Microsoft Excel can be used beyond traditional spreadsheet reporting to develop an interactive Business Intelligence solution.
@@ -427,13 +406,23 @@ These enhancements could further improve scalability, automation and analytical 
 
 ---
 
-## 📬 Contact
-
+## 👤 Author
 For collaboration, professional opportunities or questions regarding this project:
-
 **Wahab Sodiq**
 
 **Data Analyst | Team Leader | Business Intelligence & Data Visualization**
+
+---
+
+## 🔗 Portfolio Links
+
+### 📁 Google Drive
+
+[View Project Portfolio](https://drive.google.com/drive/folders/1oyuXhV6qSAY-Mi1UlfhNJC0-lzMmnQk8?usp=drive_link)
+
+### 💼 LinkedIn
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sodiqwahab/)
 
 ---
 
