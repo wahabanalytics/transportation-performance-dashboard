@@ -232,8 +232,6 @@ The dashboard therefore supports faster performance reviews and provides managem
 
 ---
 
----
-
 ## 📁 Portfolio Documentation
 
 Additional project documentation will include:
