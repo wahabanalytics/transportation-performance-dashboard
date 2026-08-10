@@ -410,8 +410,6 @@ This approach demonstrates the difference between simply displaying data and usi
 
 ---
 
----
-
 ## 🚀 Future Improvements
 
 Potential future enhancements include:
