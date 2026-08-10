@@ -254,7 +254,29 @@ The dashboard therefore supports faster performance reviews and provides managem
 - Executive-level data visualization
 
 ---
+## 📂 Repository Structure
 
+transportation-performance-dashboard/
+│
+├── README.md
+│
+├── dashboard/
+│   └── Transportation_Performance_Dashboard.xlsm
+│
+├── documentation/
+│   ├── Project_Report.pdf
+│   ├── Project_Proposal.pdf
+│   └── Project_Summary.pdf
+│
+├── screenshots/
+│   ├── dashboard-full-view.png
+│   ├── kpi-mom-analysis.png
+│   └── slicer-interactivity.png
+│
+└── assets/
+    └── dashboard-preview.png
+
+---
 ## 📁 Portfolio Documentation
 
 Additional project documentation will include:
