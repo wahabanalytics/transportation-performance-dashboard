@@ -38,8 +38,6 @@ The objective of this project was to transform operational transportation data i
 
 ## 🖥️ Dashboard Preview
 
-> Dashboard screenshot will be added here.
-
 ![Transportation Performance Dashboard] <img width="1555" height="1600" alt="Dashboard Full View" src="https://github.com/user-attachments/assets/624f0d5c-c899-468d-9163-d2e715924d35" />
 
 
