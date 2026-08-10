@@ -171,7 +171,6 @@ The automation includes:
 
 ## 🏗️ Technical Architecture
 
-```text
 Raw Transportation Data
           ↓
 Data Preparation
@@ -181,9 +180,259 @@ PivotTables
 Calculation / KPI Engine
           ↓
 Interactive Slicers
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool / Technology | Application |
+|---|---|
+| Microsoft Excel | Dashboard development and reporting |
+| PivotTables | Data aggregation and analysis |
+| Slicers | Interactive filtering |
+| Excel Formulas | KPI and analytical calculations |
+| VBA | Dashboard automation |
+| Data Visualization | Executive reporting and trend analysis |
+| Business Intelligence | KPI monitoring and performance analysis |
+
+---
+
+## 💼 Business Value
+
+The dashboard provides a centralized environment for reviewing transportation performance.
+
+It helps answer questions such as:
+
+- How much revenue is being generated?
+- Are fuel and operating costs increasing?
+- Is profitability improving?
+- Are passenger volumes increasing?
+- Are trip volumes increasing?
+- Which branch is performing best?
+- Which route generates the highest revenue?
+- Which driver is performing strongly?
+- How efficiently are vehicles being utilized?
+- What is the current On-Time performance?
+- Is the selected month performing better or worse than the previous month?
+
+The dashboard therefore supports faster performance reviews and provides management with a clearer basis for identifying areas of strong performance and areas requiring attention.
+
+---
+
+## 🔍 Key Project Highlights
+
+- Interactive executive dashboard
+- 2024–2025 operational analysis
+- KPI-driven reporting
+- PivotTable-based analytical engine
+- Multi-dimensional slicer filtering
+- Dynamic dashboard title
+- Dynamic filter-context subtitle
+- Automated Month-over-Month analysis
+- Business-context performance indicators
+- VBA-powered dashboard automation
+- Executive-level data visualization
+
+---
+
+## 📂 Repository Structure
+
+transportation-performance-dashboard/
+│
+├── README.md
+│
+├── dashboard/
+│   └── Transportation_Performance_Dashboard.xlsm
+│
+├── documentation/
+│   ├── Project_Report.pdf
+│   ├── Project_Proposal.pdf
+│   └── Project_Summary.pdf
+│
+├── screenshots/
+│   ├── dashboard-full-view.png
+│   ├── kpi-mom-analysis.png
+│   └── slicer-interactivity.png
+│
+└── assets/
+    └── dashboard-preview.png
           ↓
 Dashboard Visualizations
           ↓
 VBA Automation
           ↓
 Executive Performance Insights
+---
+
+---
+
+## 📁 Portfolio Documentation
+
+Additional project documentation will include:
+
+- Project Proposal
+- Final Project Report
+- Project Summary
+- Dashboard Screenshots
+- Interactive Excel Dashboard
+
+These materials provide both a technical overview of the solution and a business-focused explanation of the project's objectives, methodology and outcomes.
+
+---
+
+## 🎓 Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+- Data Analysis
+- Business Intelligence
+- Microsoft Excel
+- Dashboard Development
+- KPI Development
+- Data Visualization
+- PivotTables
+- Interactive Reporting
+- Month-over-Month Analysis
+- Performance Measurement
+- VBA Automation
+- Business-Context Data Interpretation
+- Executive Reporting
+
+---
+
+## 📌 Project Status
+
+**Status: Completed ✅**
+
+The dashboard has been fully developed with interactive filtering, KPI reporting, analytical visualizations, dynamic titles, automated Month-over-Month indicators and business-context performance logic.
+
+### Key Completed Components
+
+- Interactive KPI cards
+- Multi-dimensional slicers
+- Dynamic dashboard title
+- Dynamic filter-context subtitle
+- Revenue and cost analysis
+- Profitability analysis
+- Passenger and trip analysis
+- Route performance analysis
+- Branch performance analysis
+- Driver performance analysis
+- Vehicle occupancy analysis
+- On-Time performance analysis
+- Month-over-Month analysis
+- Business-context MoM indicators
+- VBA dashboard automation
+
+---
+
+## 👤 Author
+
+**Wahab Sodiq**
+
+**Data Analyst | Team Leader | Business Intelligence & Data Visualization**
+
+---
+
+## 🔗 Portfolio Links
+
+### 📁 Google Drive
+
+[View Project Portfolio] https://drive.google.com/drive/folders/1oyuXhV6qSAY-Mi1UlfhNJC0-lzMmnQk8?usp=sharing
+
+### 💼 LinkedIn
+
+[Connect with me on LinkedIn] https://www.linkedin.com/in/sodiqwahab/
+
+---
+
+## ⭐ About This Project
+
+This project demonstrates how Microsoft Excel can be used beyond traditional spreadsheet reporting to develop an interactive Business Intelligence solution.
+
+The project combines:
+
+**Data → Analysis → Visualization → Automation → Business Insight**
+
+to create a practical management reporting and decision-support tool.
+
+The solution demonstrates how raw transportation operational data can be transformed into an interactive executive reporting environment that enables users to explore performance dynamically, identify trends and compare operational results.
+
+A key focus of the project was not only to present numerical results, but also to provide **business context** around those results.
+
+For example, an increase in revenue or net profit is interpreted as favourable, while an increase in fuel or operating costs is treated as an unfavourable movement.
+
+This approach demonstrates the difference between simply displaying data and using data to communicate meaningful business performance.
+
+---
+
+## 📈 Key Analytical Capabilities
+
+The dashboard enables users to analyse transportation performance across multiple dimensions, including:
+
+- Time
+- Branch
+- Route
+- Vehicle Type
+- Driver
+
+Users can combine slicer selections to investigate specific operational scenarios and understand how performance changes across different segments.
+
+---
+
+## 💡 Business Intelligence Approach
+
+The project follows a structured Business Intelligence workflow:
+
+Data Collection
+      ↓
+Data Preparation
+      ↓
+Data Aggregation
+      ↓
+KPI Calculation
+      ↓
+Interactive Filtering
+      ↓
+Data Visualization
+      ↓
+Performance Comparison
+      ↓
+Business Interpretation
+      ↓
+Management Insight
+
+This workflow converts operational records into information that can support performance monitoring and management decision-making.
+
+---
+
+## 🚀 Future Improvements
+
+Potential future enhancements include:
+
+- Automated data refresh
+- Power Query-based data transformation
+- Power BI implementation
+- Additional forecasting analysis
+- Advanced trend analysis
+- Automated management reporting
+- Target-versus-actual performance analysis
+- More advanced profitability analysis
+- Additional operational efficiency metrics
+
+These enhancements could further improve scalability, automation and analytical depth.
+
+---
+
+## 📬 Contact
+
+For collaboration, professional opportunities or questions regarding this project:
+
+**Wahab Sodiq**
+
+**Data Analyst | Team Leader | Business Intelligence & Data Visualization**
+
+---
+
+## ⭐ Project Philosophy
+
+> **Good dashboards do not simply display numbers. They turn numbers into information, information into insight, and insight into better decisions.**
