@@ -36,11 +36,11 @@ The objective of this project was to transform operational transportation data i
 
 ---
 
-## 🖥️ Dashboard Preview
+### 🖥️ Dashboard Preview
 
 The completed dashboard provides an executive view of transportation operational and financial performance across 2024–2025.
 
-<img width="1555" height="1600" alt="Dashboard Full View" src="https://github.com/user-attachments/assets/6646cd85-9e5c-47ce-b635-540b696ccc6b" />
+<img width="1555" height="1600" alt="Dashboard Full View" src="https://github.com/user-attachments/assets/77b839ed-283f-42f0-b545-13ca5e070406" />
 
 
 ---
@@ -53,15 +53,14 @@ The KPI section combines core financial and operational metrics with dynamic Mon
 
 The MoM indicators respond to the selected dashboard filters and apply business-context performance logic to distinguish favourable and unfavourable movements.
 
-<img width="1600" height="314" alt="KPI MoM View" src="https://github.com/user-attachments/assets/7c8fc9b5-3277-4108-8502-d3d329c789db" />
+<img width="1600" height="314" alt="KPI MoM View" src="https://github.com/user-attachments/assets/9967a188-6db7-4d37-b3ff-351b2f452045" />
 
 
 ### 🎛️ Interactive Slicer Analysis
 
 The dashboard uses multiple slicers to allow users to analyse performance across different dimensions, including Year, Month, Branch, Route, Vehicle Type and Driver.
 
-<img width="148" height="658" alt="Slicers Interaction" src="https://github.com/user-attachments/assets/f6ab0101-75cd-4431-a371-5c455bea0c43" />
-
+<img width="148" height="658" alt="Slicers Interaction" src="https://github.com/user-attachments/assets/81e4d7ed-cd97-4aeb-b538-7209285c2c30" />
 
 
 ---
@@ -192,17 +191,23 @@ The automation includes:
 
 ## 🏗️ Technical Architecture
 
-```text
+``text
 Raw Transportation Data
           ↓
-  Data Preparation
+Data Preparation
           ↓
-     PivotTables
+PivotTables
           ↓
 Calculation / KPI Engine
           ↓
-   Interactive Slicers
-```
+Interactive Slicers
+          ↓
+Dashboard Visualizations
+          ↓
+VBA Automation
+          ↓
+Executive Performance Insights
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -256,8 +261,10 @@ The dashboard therefore supports faster performance reviews and provides managem
 - Executive-level data visualization
 
 ---
+
 ## 📂 Repository Structure
 
+```text
 transportation-performance-dashboard/
 │
 ├── README.md
@@ -277,8 +284,8 @@ transportation-performance-dashboard/
 │
 └── assets/
     └── dashboard-preview.png
-
 ---
+
 ## 📁 Portfolio Documentation
 
 Additional project documentation will include:
@@ -293,23 +300,45 @@ These materials provide both a technical overview of the solution and a business
 
 ---
 
-## 🎓 Skills Demonstrated
+---
 
-This project demonstrates practical experience in:
+## 📈 Key Analytical Capabilities
 
-- Data Analysis
-- Business Intelligence
-- Microsoft Excel
-- Dashboard Development
-- KPI Development
-- Data Visualization
-- PivotTables
-- Interactive Reporting
-- Month-over-Month Analysis
-- Performance Measurement
-- VBA Automation
-- Business-Context Data Interpretation
-- Executive Reporting
+The dashboard enables users to analyse transportation performance across multiple dimensions, including:
+
+- Time
+- Branch
+- Route
+- Vehicle Type
+- Driver
+
+Users can combine slicer selections to investigate specific operational scenarios and understand how performance changes across different segments.
+
+---
+
+## 💡 Business Intelligence Approach
+
+The project follows a structured Business Intelligence workflow:
+
+```text
+Data Collection
+      ↓
+Data Preparation
+      ↓
+Data Aggregation
+      ↓
+KPI Calculation
+      ↓
+Interactive Filtering
+      ↓
+Data Visualization
+      ↓
+Performance Comparison
+      ↓
+Business Interpretation
+      ↓
+Management Insight
+---
 
 ---
 
@@ -351,11 +380,11 @@ The dashboard has been fully developed with interactive filtering, KPI reporting
 
 ### 📁 Google Drive
 
-[View Project Portfolio] https://drive.google.com/drive/folders/1oyuXhV6qSAY-Mi1UlfhNJC0-lzMmnQk8?usp=sharing
+https://drive.google.com/drive/folders/1oyuXhV6qSAY-Mi1UlfhNJC0-lzMmnQk8?usp=drive_link
 
 ### 💼 LinkedIn
 
-[Connect with me on LinkedIn] https://www.linkedin.com/in/sodiqwahab/
+https://www.linkedin.com/in/sodiqwahab/
 
 ---
 
@@ -378,44 +407,6 @@ For example, an increase in revenue or net profit is interpreted as favourable, 
 This approach demonstrates the difference between simply displaying data and using data to communicate meaningful business performance.
 
 ---
-
-## 📈 Key Analytical Capabilities
-
-The dashboard enables users to analyse transportation performance across multiple dimensions, including:
-
-- Time
-- Branch
-- Route
-- Vehicle Type
-- Driver
-
-Users can combine slicer selections to investigate specific operational scenarios and understand how performance changes across different segments.
-
----
-
-## 💡 Business Intelligence Approach
-
-The project follows a structured Business Intelligence workflow:
-
-Data Collection
-      ↓
-Data Preparation
-      ↓
-Data Aggregation
-      ↓
-KPI Calculation
-      ↓
-Interactive Filtering
-      ↓
-Data Visualization
-      ↓
-Performance Comparison
-      ↓
-Business Interpretation
-      ↓
-Management Insight
-
-This workflow converts operational records into information that can support performance monitoring and management decision-making.
 
 ---
 
@@ -444,7 +435,6 @@ For collaboration, professional opportunities or questions regarding this projec
 **Wahab Sodiq**
 
 **Data Analyst | Team Leader | Business Intelligence & Data Visualization**
-
 
 ---
 
