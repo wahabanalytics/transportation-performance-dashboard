@@ -40,8 +40,7 @@ The objective of this project was to transform operational transportation data i
 
 The completed dashboard provides an executive view of transportation operational and financial performance across 2024–2025.
 
-<img width="1555" height="1600" alt="Dashboard Full View" src="https://github.com/user-attachments/assets/77b839ed-283f-42f0-b545-13ca5e070406" />
-
+![Full Dashboard](<img width="1555" height="1600" alt="Dashboard Full View" src="https://github.com/user-attachments/assets/77b839ed-283f-42f0-b545-13ca5e070406" />)
 
 ---
 
@@ -53,15 +52,14 @@ The KPI section combines core financial and operational metrics with dynamic Mon
 
 The MoM indicators respond to the selected dashboard filters and apply business-context performance logic to distinguish favourable and unfavourable movements.
 
-<img width="1600" height="314" alt="KPI MoM View" src="https://github.com/user-attachments/assets/9967a188-6db7-4d37-b3ff-351b2f452045" />
+![KPI and MoM Analysis](<img width="1600" height="314" alt="KPI MoM View" src="https://github.com/user-attachments/assets/9967a188-6db7-4d37-b3ff-351b2f452045" />)
 
 
 ### 🎛️ Interactive Slicer Analysis
 
 The dashboard uses multiple slicers to allow users to analyse performance across different dimensions, including Year, Month, Branch, Route, Vehicle Type and Driver.
 
-<img width="148" height="658" alt="Slicers Interaction" src="https://github.com/user-attachments/assets/81e4d7ed-cd97-4aeb-b538-7209285c2c30" />
-
+![Slicer Interactivity](<img width="148" height="658" alt="Slicers Interaction" src="https://github.com/user-attachments/assets/81e4d7ed-cd97-4aeb-b538-7209285c2c30" />)
 
 ---
 
@@ -382,11 +380,12 @@ The dashboard has been fully developed with interactive filtering, KPI reporting
 
 ### 📁 Google Drive
 
-https://drive.google.com/drive/folders/1oyuXhV6qSAY-Mi1UlfhNJC0-lzMmnQk8?usp=drive_link
+[View Project Portfolio](https://drive.google.com/drive/folders/1oyuXhV6qSAY-Mi1UlfhNJC0-lzMmnQk8?usp=drive_link)
 
 ### 💼 LinkedIn
 
-https://www.linkedin.com/in/sodiqwahab/
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sodiqwahab/)
+
 
 ---
 
