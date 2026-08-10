@@ -231,6 +231,7 @@ The dashboard therefore supports faster performance reviews and provides managem
 - Executive-level data visualization
 
 ---
+
 ---
 
 ## 📁 Portfolio Documentation
