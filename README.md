@@ -299,8 +299,6 @@ These materials provide both a technical overview of the solution and a business
 
 ---
 
----
-
 ## 📈 Key Analytical Capabilities
 
 The dashboard enables users to analyse transportation performance across multiple dimensions, including:
