@@ -40,7 +40,7 @@ The objective of this project was to transform operational transportation data i
 
 The completed dashboard provides an executive view of transportation operational and financial performance across 2024–2025.
 
-![Transportation Performance Dashboard] <img width="1555" height="1600" alt="Dashboard Full View" src="https://github.com/user-attachments/assets/6646cd85-9e5c-47ce-b635-540b696ccc6b" />
+<img width="1555" height="1600" alt="Dashboard Full View" src="https://github.com/user-attachments/assets/6646cd85-9e5c-47ce-b635-540b696ccc6b" />
 
 
 ---
@@ -53,14 +53,14 @@ The KPI section combines core financial and operational metrics with dynamic Mon
 
 The MoM indicators respond to the selected dashboard filters and apply business-context performance logic to distinguish favourable and unfavourable movements.
 
-![KPI and MoM Analysis]<img width="1600" height="314" alt="KPI MoM View" src="https://github.com/user-attachments/assets/7c8fc9b5-3277-4108-8502-d3d329c789db" />
+<img width="1600" height="314" alt="KPI MoM View" src="https://github.com/user-attachments/assets/7c8fc9b5-3277-4108-8502-d3d329c789db" />
 
 
 ### 🎛️ Interactive Slicer Analysis
 
 The dashboard uses multiple slicers to allow users to analyse performance across different dimensions, including Year, Month, Branch, Route, Vehicle Type and Driver.
 
-![Slicer Interactivity]<img width="148" height="658" alt="Slicers Interaction" src="https://github.com/user-attachments/assets/f6ab0101-75cd-4431-a371-5c455bea0c43" />
+<img width="148" height="658" alt="Slicers Interaction" src="https://github.com/user-attachments/assets/f6ab0101-75cd-4431-a371-5c455bea0c43" />
 
 
 
