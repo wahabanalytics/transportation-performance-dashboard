@@ -398,6 +398,7 @@ For collaboration, professional opportunities or questions regarding this projec
 
 **Data Analyst | Team Leader | Business Intelligence & Data Visualization**
 
+
 ---
 
 ## ⭐ Project Philosophy
