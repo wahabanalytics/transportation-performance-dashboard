@@ -192,12 +192,17 @@ The automation includes:
 
 ## 🏗️ Technical Architecture
 
-mermaid
-flowchart TD
-    A[Raw Transportation Data] --> B[Data Preparation]
-    B --> C[PivotTables]
-    C --> D[Calculation / KPI Engine]
-    D --> E[Interactive Slicers]
+```text
+Raw Transportation Data
+          ↓
+  Data Preparation
+          ↓
+     PivotTables
+          ↓
+Calculation / KPI Engine
+          ↓
+   Interactive Slicers
+```
 ---
 
 ## 🛠️ Tools & Technologies
