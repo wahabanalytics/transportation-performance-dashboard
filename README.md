@@ -191,7 +191,7 @@ The automation includes:
 
 ## 🏗️ Technical Architecture
 
-``text
+```text
 Raw Transportation Data
           ↓
 Data Preparation
@@ -207,7 +207,7 @@ Dashboard Visualizations
 VBA Automation
           ↓
 Executive Performance Insights
-
+```
 ---
 
 ## 🛠️ Tools & Technologies
@@ -284,6 +284,7 @@ transportation-performance-dashboard/
 │
 └── assets/
     └── dashboard-preview.png
+```
 ---
 
 ## 📁 Portfolio Documentation
@@ -338,6 +339,7 @@ Performance Comparison
 Business Interpretation
       ↓
 Management Insight
+```
 ---
 
 ---
